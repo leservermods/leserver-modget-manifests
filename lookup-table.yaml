@@ -1,0 +1,40 @@
+- id: lithium
+  names:
+    - lithium
+    - lithium-fabric
+  packages:
+    - CaffeineMC.lithium
+  tags:
+    - performance
+    - utility
+
+- id: phosphor
+  names: 
+    - phosphor
+    - phosphor-fabric
+  packages:
+    - CaffeineMC.phosphor
+  tags:
+    - performance
+    - utility
+    - worldgen
+
+- id: sodium
+  names:
+    - sodium
+    - sodium-fabric
+  packages:
+    - CaffeineMC.sodium
+  tags:
+    - performance
+    - utility
+
+- id: fabric
+  names:
+    - fabric
+    - fabric-api
+  packages:
+    - FabricMC.fabric
+  tags:
+    - library
+    - api
